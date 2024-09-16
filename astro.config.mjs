@@ -15,7 +15,6 @@ export default defineConfig({
       apiVersion: "2024-09-14",
       studioBasePath: "/admin",
     }),
-    sanity(),
     react(),
     tailwind(),
   ],

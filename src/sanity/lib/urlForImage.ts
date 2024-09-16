@@ -1,4 +1,4 @@
-import { sanityClient } from "sanity:client";
+import { sanityClient } from "./sanityClient";
 import imageUrlBuilder from "@sanity/image-url";
 import type { SanityAsset } from "@sanity/image-url/lib/types/types";
 
